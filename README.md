@@ -1,5 +1,6 @@
-## This is the tasks was given to me
+## Assignment solution for the Mean-Variance-Standard Deviation Calculator project for the freeCodeCamp
 
+This repository includes my solution for the assignment given below, you can check and run the project [here](https://replit.com/@SawsanDaban/boilerplate-mean-variance-standard-deviation-calculator#mean_var_std.py)
 
 ### Assignment
 
